@@ -15,7 +15,6 @@ const VARIABLE_TASKS = [
   { id: "v6", icon: "🎨", label: "Desenhar qualquer coisa", desc: "Sem julgamento" },
   { id: "v7", icon: "🌿", label: "Cuidar de planta", desc: "Regar, limpar folha" },
   { id: "v8", icon: "🍳", label: "Preparar um lanche", desc: "Com calma, sem pressa" },
-];
 
 function loadState() {
   try {
